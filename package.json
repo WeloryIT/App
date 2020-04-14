@@ -1,7 +1,7 @@
 {
-  "name": "Сука приложение",
+  "name": "programm_weloryit_v0.0.1",
   "version": "0.0.1",
-  "description": "Самое полезное приложение в мире",
+  "description": "Programm WeloryIT",
   "keywords": ["react", "starter"],
   "main": "src/index.js",
   "dependencies": {
